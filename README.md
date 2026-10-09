@@ -1,1 +1,1 @@
-# VoyageAI-TypeScript-
+# VoyageAI-TypeScript
